@@ -442,51 +442,61 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-digital-dabba-walah",
+          title: 'Digital Dabba Walah',
+          description: "Aug 2015 - Present",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/al-folio/projects/digital_dabba_walah/";
+            },},{id: "projects-fog-computing-framework-for-protocol-verification-and-performance-analysis",
+          title: 'Fog Computing framework for protocol verification and performance analysis',
+          description: "Oct 2017 - Present",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/al-folio/projects/fog_computing/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/al-folio/projects/har-baat/";
+            },},{id: "projects-inbox",
+          title: 'Inbox+',
+          description: "Jul 2016 - Aug 2016",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/al-folio/projects/inboxplus/";
+            },},{id: "projects-konectipy",
+          title: 'konectipy',
+          description: "Feb 2020 - Present",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/al-folio/projects/konectipy/";
+            },},{id: "projects-detecting-rogue-sensors-using-machine-learning-for-fog-infrastructures",
+          title: 'Detecting Rogue sensors using Machine Learning for Fog Infrastructures',
+          description: "Apr 2018 - May 2018",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/al-folio/projects/rogue_sensors/";
+            },},{id: "projects-rottenpy",
+          title: 'RottenPy',
+          description: "Mar 2020 - Mar 2020",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/al-folio/projects/rottenpy/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/al-folio/projects/softcomputing/";
+            },},{id: "projects-text-summarization-with-sequence-2-sequence-networks",
+          title: 'Text Summarization with Sequence 2 Sequence Networks',
+          description: "Nov 2018 - Present",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/9_project/";
+              window.location.href = "/al-folio/projects/text_summarization/";
+            },},{id: "projects-tikpy",
+          title: 'TikPy',
+          description: "Sep 2019 - Present",
+          section: "Projects",handler: () => {
+              window.location.href = "/al-folio/projects/tikpy/";
+            },},{id: "projects-twitter-sentiment-analysis-with-a-focus-on-detecting-fake-trends",
+          title: 'Twitter sentiment analysis with a focus on detecting fake trends',
+          description: "Apr 2018 - Present",
+          section: "Projects",handler: () => {
+              window.location.href = "/al-folio/projects/twitter_sentiment_analysis/";
             },},{
         id: 'social-email',
         title: 'email',
