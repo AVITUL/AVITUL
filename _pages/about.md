@@ -14,7 +14,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
 ---
 
 Building LLM powered enterprise applications at scale. Focus on service reliability and observability. Bringing LLMs in-house.

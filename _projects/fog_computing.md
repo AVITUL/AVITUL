@@ -9,6 +9,7 @@ category: work
 A Node.js based project to implement Fog Computing framework. Aim of the project was to understand the delays, throughput and efficiency of schemes proposed for Fog computing.
 
 There are 3 layers in the project.
+
 1. Terminal Devices / IoT layer
 2. Fog layer
 3. Cloud
